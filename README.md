@@ -1,15 +1,20 @@
 ## 💜 Olá, meu nome é <strong>Alex Corrêa</strong>
 
-> Desenvolvedor apaixonado por Tecnologia.
+🔭 Desenvolvedor FullStack apaixonado por Tecnologia em busca de novos desafios.
 
-🔭 Atualmente estou trabalhando no desenvolvimento de alguns projetos pessoais para criação do meu portfólio.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+<h3>&nbsp;Sobre mim </h3>
+
+- 🎓 &nbsp; Formado em Redes de Computadores pela <a href="https://drummond.com.br/">Faculdade de Tecnologia Carlos Drummond de Andrade</a>.
+- 🎓 &nbsp; Pós Graduado em Tecnologias Digitais Aplicadas na Educação pela <a href="https://portal.uniasselvi.com.br/">Faculdade Uniasselvi</a>. 
+- 🎓 &nbsp; MBA em Gestão Comercial e Inteligência de Mercado pela <a href="https://portal.uniasselvi.com.br/">Faculdade Uniasselvi</a>. 
+- 💼 &nbsp; Professor de Informática na Universidade da Criança e Desenvolvedor FullStack no meu tempo livre em projetos pessoais.
 
 ----
 
 ## 🚀 Minhas Skills Front-End
-
+Figma <br/>
 HTML5 <br/>
 CSS3 <br/>
 Bootstrap <br/>
@@ -38,6 +43,20 @@ Banco de Dados MongoDB <br/>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
+**Utilidades**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ---
 
