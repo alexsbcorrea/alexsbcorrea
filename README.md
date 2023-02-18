@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Alex Corrêa</strong>
+## 💜 Olá, meu nome é <strong>Alex Sandro Belfort</strong>
 
 🔭 Desenvolvedor FullStack apaixonado por Tecnologia em busca de novos desafios.
 
