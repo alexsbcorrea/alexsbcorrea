@@ -19,6 +19,7 @@ HTML5 <br/>
 CSS3 <br/>
 Bootstrap <br/>
 Javascript <br/>
+Typescript <br/>
 React <br/>
 React Native <br/>
 
