@@ -40,7 +40,7 @@ Node JS + Express <br/>
 ORM Sequelize <br/>
 Banco de Dados MySQL <br/>
 Banco de Dados Postgres <br/>
-ODM Mongoose
+ODM Mongoose <br/>
 Banco de Dados MongoDB <br/>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
