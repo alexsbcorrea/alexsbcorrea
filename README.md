@@ -6,9 +6,9 @@
 
 <h3>&nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Formado em Redes de Computadores pela <a href="https://drummond.com.br/">Faculdade de Tecnologia Carlos Drummond de Andrade</a>.
-- 🎓 &nbsp; Pós Graduado em Tecnologias Digitais Aplicadas na Educação pela <a href="https://portal.uniasselvi.com.br/">Faculdade Uniasselvi</a>. 
 - 🎓 &nbsp; MBA em Gestão Comercial e Inteligência de Mercado pela <a href="https://portal.uniasselvi.com.br/">Faculdade Uniasselvi</a>. 
+- 🎓 &nbsp; Pós Graduado em Tecnologias Digitais Aplicadas na Educação pela <a href="https://portal.uniasselvi.com.br/">Faculdade Uniasselvi</a>. 
+- 🎓 &nbsp; Formado em Redes de Computadores pela <a href="https://drummond.com.br/">Faculdade de Tecnologia Carlos Drummond de Andrade</a>.
 - 💼 &nbsp; Professor de Informática na Universidade da Criança e Desenvolvedor FullStack no meu tempo livre em projetos pessoais.
 
 ----
@@ -22,6 +22,8 @@ Javascript <br/>
 Typescript <br/>
 React <br/>
 React Native <br/>
+Styled Components<br/>
+CSS Modules<br/>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -34,9 +36,11 @@ React Native <br/>
 
 ## 🚀 Minhas Skills Back-End
 
-Node JS <br/>
+Node JS + Express <br/>
+ORM Sequelize <br/>
 Banco de Dados MySQL <br/>
 Banco de Dados Postgres <br/>
+ODM Mongoose
 Banco de Dados MongoDB <br/>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
