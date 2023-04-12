@@ -22,6 +22,7 @@ Javascript <br/>
 Typescript <br/>
 React <br/>
 React Native <br/>
+Redux<br/>
 Styled Components<br/>
 CSS Modules<br/>
 
