@@ -36,6 +36,7 @@ CSS Modules<br/>
 
 Node JS + Express <br/>
 ORM Sequelize <br/>
+ORM Prisma <br/>
 Banco de Dados MySQL <br/>
 Banco de Dados Postgres <br/>
 ODM Mongoose <br/>
