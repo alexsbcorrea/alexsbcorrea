@@ -21,8 +21,10 @@ Bootstrap <br/>
 Javascript <br/>
 Typescript <br/>
 React <br/>
+NextJS
 React Native <br/>
 Redux<br/>
+Cache com React Query
 Styled Components<br/>
 CSS Modules<br/>
 
@@ -41,6 +43,8 @@ Banco de Dados MySQL <br/>
 Banco de Dados Postgres <br/>
 ODM Mongoose <br/>
 Banco de Dados MongoDB <br/>
+Cache com Redis
+Testes Unitários e de Integração dom Jest e Supertest<br/>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
