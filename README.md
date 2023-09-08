@@ -13,7 +13,7 @@
 
 ----
 
-## 🚀 Minhas Skills Front-End
+## 🚀 Minhas Skills Front-End e Mobile
 Figma <br/>
 HTML5 <br/>
 CSS3 <br/>
@@ -36,7 +36,10 @@ CSS Modules<br/>
 
 ## 🚀 Minhas Skills Back-End
 
-Node JS + Express <br/>
+Node JS
+Express <br/>
+NestJS
+WebSockets
 ORM Sequelize <br/>
 ORM Prisma <br/>
 Banco de Dados MySQL <br/>
@@ -45,6 +48,7 @@ ODM Mongoose <br/>
 Banco de Dados MongoDB <br/>
 Cache com Redis
 Testes Unitários e de Integração dom Jest e Supertest<br/>
+Docker e Docker Compose (Orquestração)
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
