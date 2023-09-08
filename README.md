@@ -21,10 +21,10 @@ Bootstrap <br/>
 Javascript <br/>
 Typescript <br/>
 React <br/>
-NextJS
+NextJS<br/>
 React Native <br/>
 Redux<br/>
-Cache com React Query
+Cache com React Query<br/>
 Styled Components<br/>
 CSS Modules<br/>
 
@@ -36,19 +36,19 @@ CSS Modules<br/>
 
 ## 🚀 Minhas Skills Back-End
 
-Node JS
+Node JS<br/>
 Express <br/>
-NestJS
-WebSockets
+NestJS<br/>
+WebSockets<br/>
 ORM Sequelize <br/>
 ORM Prisma <br/>
 Banco de Dados MySQL <br/>
 Banco de Dados Postgres <br/>
 ODM Mongoose <br/>
 Banco de Dados MongoDB <br/>
-Cache com Redis
+Cache com Redis<br/>
 Testes Unitários e de Integração dom Jest e Supertest<br/>
-Docker e Docker Compose (Orquestração)
+Docker e Docker Compose<br/>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
