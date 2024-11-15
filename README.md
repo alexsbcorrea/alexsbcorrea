@@ -9,7 +9,7 @@
 - 🎓 &nbsp; MBA em Gestão Comercial e Inteligência de Mercado pela <a href="https://portal.uniasselvi.com.br/">Faculdade Uniasselvi</a>. 
 - 🎓 &nbsp; Pós Graduado em Tecnologias Digitais Aplicadas na Educação pela <a href="https://portal.uniasselvi.com.br/">Faculdade Uniasselvi</a>. 
 - 🎓 &nbsp; Formado em Redes de Computadores pela <a href="https://drummond.com.br/">Faculdade de Tecnologia Carlos Drummond de Andrade</a>.
-- 💼 &nbsp; Professor de Informática na Universidade da Criança e Desenvolvedor FullStack no meu tempo livre em projetos pessoais.
+- 💼 &nbsp; Técnico de Help Desk Jr na Beneficência Portuguesa e Desenvolvedor FullStack no meu tempo livre em projetos pessoais.
 
 ----
 
